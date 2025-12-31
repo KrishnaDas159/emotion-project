@@ -1,6 +1,6 @@
 # 😊 Emotion Detection & Music Recommendation System
 
-**Duration:** Mar 2025 – May 2025  
+
 **Tech Stack:** OpenCV, CNN, Flask, SQLite, HTML, CSS, Jinja2  
 
 An intelligent **Emotion Detection & Music Recommendation System** that uses real-time facial emotion recognition to deliver personalized music and podcast recommendations. The system leverages computer vision and deep learning to enhance user engagement through adaptive, mood-based content delivery.
